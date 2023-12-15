@@ -41,8 +41,6 @@ def get_cover_details(text):
         'Dato': r'Dato:\nType:\n([^\n]+)\n',
         'Type': r'Dato:\nType:\n[^\n]+\n([^\n]+)\n',
         'Dokumenter': r'Dokumenter:\n(.+)'
-
-
     }
 
 
